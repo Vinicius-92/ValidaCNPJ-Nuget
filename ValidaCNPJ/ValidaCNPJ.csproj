@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <PackageId>ValidaCNPJ</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Vinicius Augusto</Authors>
+    <PackageDescription>Pacote que valida número CNPJ</PackageDescription>
+    <Description>Pacote que valida número CNPJ</Description>
+    <RepositoryUrl>https://github.com/Vinicius-92/ValidaCNPJ-Nuget</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Vinicius-92/ValidaCNPJ-Nuget</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Valida CNPJ</PackageTags>
+    <Title>Valida CNPJ</Title>
+    <Summary>Valida CNPJ</Summary>
+  </PropertyGroup>
+</Project>
+
+
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvOHKD75WIQz+wjI9XtnrjTi40KOkPeVDf12ZL8dhAcAhkoFPDbDnMVN66A63lU/4i1u+IhFAZ2BlLmTGjDogw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vsav\\ValidaCNPJ\\ValidaCNPJ\\ValidaCNPJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsav\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vsav\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

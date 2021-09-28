@@ -1,0 +1,10 @@
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\obj\Debug\netstandard2.0\ValidaCNPJ.csproj.AssemblyReference.cache
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\obj\Debug\netstandard2.0\ValidaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\obj\Debug\netstandard2.0\ValidaCNPJ.AssemblyInfoInputs.cache
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\obj\Debug\netstandard2.0\ValidaCNPJ.AssemblyInfo.cs
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\obj\Debug\netstandard2.0\ValidaCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\bin\Debug\netstandard2.0\ValidaCNPJ.deps.json
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\bin\Debug\netstandard2.0\ValidaCNPJ.dll
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\bin\Debug\netstandard2.0\ValidaCNPJ.pdb
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\obj\Debug\netstandard2.0\ValidaCNPJ.dll
+C:\Users\vsav\ValidaCNPJ\ValidaCNPJ\obj\Debug\netstandard2.0\ValidaCNPJ.pdb
